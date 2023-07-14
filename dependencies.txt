@@ -1,0 +1,53 @@
+github AllenTuring/WitchessSolver
+github coandco/mafia-NewYou
+github Ezandora/Briefcase Release
+github Ezandora/Choice-Override Release
+github Ezandora/Detective-Solver Release
+github Ezandora/FantasyRealm Release
+github Ezandora/Far-Future Release
+github Ezandora/Genie Release
+github Ezandora/Source-Terminal-GUI Release
+github frazazel/goorbo release
+github frazazel/levelup release
+github gausie/excavator
+github geistbar/autoGlacier
+github geistbar/autoVolcano
+github ggvgiu/PizzaCubeGUI Release
+github horrible-little-slime/phccs release
+github Kasekopf/loop-casual release
+github libraryaddict/KolLocket release
+github loathers/8bit-relay
+github loathers/chrono-collector release
+github loathers/freecandydotexe release
+github loathers/greenbox release
+github loathers/libram release
+github loathers/locket-collector release
+github loathers/railo release
+github loathers/TourGuide Release
+github Loathing-Associates-Scripting-Society/autoscend
+github Loathing-Associates-Scripting-Society/ChIT
+github Loathing-Associates-Scripting-Society/combo release
+github Loathing-Associates-Scripting-Society/garbage-collector release
+github Loathing-Associates-Scripting-Society/KoL-MineVolcano
+github Loathing-Associates-Scripting-Society/locket-ui
+github Loathing-Associates-Scripting-Society/philter
+github Loathing-Associates-Scripting-Society/raidlog-parser
+github Loathing-Associates-Scripting-Society/yorick release
+github m-e-meyer/av-snapshot
+github midgleyc/Voting-Booth
+github Pantocyclus/PVP_MAB release
+github phulin/shorts-ui
+github Rinn/kol-acquirebuff
+github Rinn/kol-creationcost
+github Rinn/kol-familiardrops
+github Rinn/kol-pvphistory
+github Rinn/kol-relayskills
+github s-k-z/kolfix release
+github soolar/CONSUME.ash
+github Veracity0/arrrbor-day
+github Veracity0/garden
+github Veracity0/gingerbread
+github Veracity0/shadow-rift
+github Veracity0/spacegate
+github Veracity0/vcon
+github Veracity0/vprops
