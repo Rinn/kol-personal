@@ -1,5 +1,6 @@
 github AllenTuring/WitchessSolver
 github coandco/mafia-NewYou
+github Ezandora/Asdon-Martin-GUI Release
 github Ezandora/Briefcase Release
 github Ezandora/Choice-Override Release
 github Ezandora/Detective-Solver Release
