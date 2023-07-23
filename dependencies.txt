@@ -45,6 +45,7 @@ github Rinn/kol-pvphistory
 github Rinn/kol-relayskills
 github s-k-z/kolfix release
 github soolar/CONSUME.ash
+github Thingamore/EZHobo
 github tigerinanenet/cognac release
 github Veracity0/arrrbor-day
 github Veracity0/garden
