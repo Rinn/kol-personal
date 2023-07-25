@@ -18,19 +18,18 @@ github horrible-little-slime/phccs release
 github Kasekopf/loop-casual release
 github libraryaddict/KolLocket release
 github loathers/8bit-relay
+github loathers/autoscend
+github loathers/ChIT
 github loathers/chrono-collector release
+github loathers/combo release
 github loathers/freecandydotexe release
 github loathers/garbage-collector release
 github loathers/greenbox release
 github loathers/libram release
 github loathers/locket-collector release
-github loathers/railo release
+github loathers/locket-ui
 github loathers/TourGuide Release
-github Loathing-Associates-Scripting-Society/autoscend
-github Loathing-Associates-Scripting-Society/ChIT
-github Loathing-Associates-Scripting-Society/combo release
 github Loathing-Associates-Scripting-Society/KoL-MineVolcano
-github Loathing-Associates-Scripting-Society/locket-ui
 github Loathing-Associates-Scripting-Society/philter
 github Loathing-Associates-Scripting-Society/raidlog-parser
 github Loathing-Associates-Scripting-Society/yorick release
