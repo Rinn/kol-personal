@@ -1,4 +1,3 @@
-https://github.com/Ezandora/Bastille/branches/Release
 https://github.com/Ezandora/Comb-Beach/trunk/Release
 https://github.com/Ezandora/PirateRealm/trunk/Release
 https://svn.code.sf.net/p/bale/advisor/code
@@ -40,6 +39,7 @@ https://svn.code.sf.net/p/winterbay-mafia/wham/code
 github AllenTuring/WitchessSolver
 github coandco/mafia-NewYou
 github Ezandora/Asdon-Martin-GUI Release
+github Ezandora/Bastille Release
 github Ezandora/Briefcase Release
 github Ezandora/Choice-Override Release
 github Ezandora/Detective-Solver Release
