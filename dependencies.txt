@@ -16,6 +16,7 @@ https://svn.code.sf.net/p/bumcheekascend/code/bumpork
 https://svn.code.sf.net/p/ckbstd/code
 https://svn.code.sf.net/p/clilinks/code
 https://svn.code.sf.net/p/digitrev/code/telegram
+https://svn.code.sf.net/p/formhtml/code
 https://svn.code.sf.net/p/guyymafia/code/displayshelves
 https://svn.code.sf.net/p/guyymafia/code/dreaddrunk
 https://svn.code.sf.net/p/kolmafiascripts/cfstat/code
