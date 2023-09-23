@@ -1,3 +1,41 @@
+https://github.com/Ezandora/Bastille/branches/Release
+https://github.com/Ezandora/Comb-Beach/trunk/Release
+https://github.com/Ezandora/PirateRealm/trunk/Release
+https://svn.code.sf.net/p/bale/advisor/code
+https://svn.code.sf.net/p/bale/counterchecker/code
+https://svn.code.sf.net/p/bale/ltt/code
+https://svn.code.sf.net/p/bale/relay/code/campground
+https://svn.code.sf.net/p/bale/relay/code/manor_unlockInfo
+https://svn.code.sf.net/p/bale/relay/code/Monster_Manuel_Improvement
+https://svn.code.sf.net/p/bale/relay/code/woods_questStart
+https://svn.code.sf.net/p/bale/spelunky/code
+https://svn.code.sf.net/p/batbrain/code
+https://svn.code.sf.net/p/batman-re/code
+https://svn.code.sf.net/p/bestbetweenbattle/code
+https://svn.code.sf.net/p/bumcheekascend/code/bumpork
+https://svn.code.sf.net/p/ckbstd/code
+https://svn.code.sf.net/p/clilinks/code
+https://svn.code.sf.net/p/digitrev/code/telegram
+https://svn.code.sf.net/p/guyymafia/code/displayshelves
+https://svn.code.sf.net/p/guyymafia/code/dreaddrunk
+https://svn.code.sf.net/p/kolmafiascripts/cfstat/code
+https://svn.code.sf.net/p/kolmafiascripts/mafiarecovery/code
+https://svn.code.sf.net/p/kolmafiascripts/shop/code
+https://svn.code.sf.net/p/lootparser/code
+https://svn.code.sf.net/p/mercenarymood/code
+https://svn.code.sf.net/p/psychoseamatic/code
+https://svn.code.sf.net/p/reference-plus/code
+https://svn.code.sf.net/p/slyz-nemesis/code
+https://svn.code.sf.net/p/smartstasis/code
+https://svn.code.sf.net/p/therazekolmafia/canadv/code
+https://svn.code.sf.net/p/therazekolmafia/eatdrink/code
+https://svn.code.sf.net/p/therazekolmafia/thesea/code
+https://svn.code.sf.net/p/unlock-dread2/code
+https://svn.code.sf.net/p/winterbay-mafia/autobasement/code
+https://svn.code.sf.net/p/winterbay-mafia/farm/code
+https://svn.code.sf.net/p/winterbay-mafia/sushi/code
+https://svn.code.sf.net/p/winterbay-mafia/wham/code
+
 github AllenTuring/WitchessSolver
 github coandco/mafia-NewYou
 github Ezandora/Asdon-Martin-GUI Release
