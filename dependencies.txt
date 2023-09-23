@@ -67,6 +67,7 @@ github loathers/libram release
 github loathers/locket-collector release
 github loathers/locket-ui
 github loathers/TourGuide Release
+github loathers/UberPvPOptimizer
 github Loathing-Associates-Scripting-Society/KoL-MineVolcano
 github Loathing-Associates-Scripting-Society/philter
 github Loathing-Associates-Scripting-Society/raidlog-parser
