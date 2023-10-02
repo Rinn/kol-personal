@@ -75,6 +75,7 @@ github Loathing-Associates-Scripting-Society/raidlog-parser
 github Loathing-Associates-Scripting-Society/yorick release
 github m-e-meyer/av-snapshot
 github midgleyc/Voting-Booth
+github Pantocyclus/instantsccs.git release
 github Pantocyclus/PVP_MAB release
 github phulin/shorts-ui
 github Rinn/kol-acquirebuff
