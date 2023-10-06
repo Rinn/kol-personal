@@ -88,6 +88,7 @@ github soolar/CONSUME.ash
 github Thingamore/EZHobo
 github tigerinanenet/cognac release
 github Veracity0/arrrbor-day
+github Veracity0/beach
 github Veracity0/garden
 github Veracity0/gingerbread
 github Veracity0/shadow-rift
