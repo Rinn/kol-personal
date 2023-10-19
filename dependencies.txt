@@ -47,7 +47,7 @@ github Ezandora/FantasyRealm Release
 github Ezandora/Far-Future Release
 github Ezandora/Genie Release
 github Ezandora/Source-Terminal-GUI Release
-github frazazel/goorbo release
+github frazazel/goorbo testing
 github frazazel/levelup release
 github gausie/excavator
 github geistbar/autoGlacier
