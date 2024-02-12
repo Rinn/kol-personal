@@ -1,5 +1,3 @@
-https://github.com/Ezandora/Comb-Beach/trunk/Release
-https://github.com/Ezandora/PirateRealm/trunk/Release
 https://svn.code.sf.net/p/bale/advisor/code
 https://svn.code.sf.net/p/bale/counterchecker/code
 https://svn.code.sf.net/p/bale/ltt/code
@@ -42,10 +40,12 @@ github Ezandora/Asdon-Martin-GUI Release
 github Ezandora/Bastille Release
 github Ezandora/Briefcase Release
 github Ezandora/Choice-Override Release
+github Ezandora/Comb-Beach
 github Ezandora/Detective-Solver Release
 github Ezandora/FantasyRealm Release
 github Ezandora/Far-Future Release
 github Ezandora/Genie Release
+github Ezandora/PirateRealm
 github Ezandora/Source-Terminal-GUI Release
 github frazazel/goorbo testing
 github frazazel/levelup release
