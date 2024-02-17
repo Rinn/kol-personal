@@ -36,17 +36,17 @@ https://svn.code.sf.net/p/winterbay-mafia/wham/code
 
 github AllenTuring/WitchessSolver
 github coandco/mafia-NewYou
-github Ezandora/Asdon-Martin-GUI Release
-github Ezandora/Bastille Release
-github Ezandora/Briefcase Release
-github Ezandora/Choice-Override Release
+github Ezandora/Asdon-Martin-GUI
+github Ezandora/Bastille
+github Ezandora/Briefcase
+github Ezandora/Choice-Override
 github Ezandora/Comb-Beach
-github Ezandora/Detective-Solver Release
-github Ezandora/FantasyRealm Release
-github Ezandora/Far-Future Release
-github Ezandora/Genie Release
+github Ezandora/Detective-Solver
+github Ezandora/FantasyRealm
+github Ezandora/Far-Future
+github Ezandora/Genie
 github Ezandora/PirateRealm
-github Ezandora/Source-Terminal-GUI Release
+github Ezandora/Source-Terminal-GUI
 github Ezandora/Voting-Booth
 github frazazel/goorbo testing
 github frazazel/levelup release
