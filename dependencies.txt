@@ -50,7 +50,7 @@ github Ezandora/Source-Terminal-GUI
 github Ezandora/Voting-Booth
 github frazazel/goorbo testing
 github frazazel/levelup release
-github gausie/excavator
+github gausie/excavator release
 github geistbar/autoGlacier
 github geistbar/autoVolcano
 github ggvgiu/PizzaCubeGUI Release
