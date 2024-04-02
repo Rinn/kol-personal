@@ -50,7 +50,6 @@ github Ezandora/Source-Terminal-GUI
 github Ezandora/Voting-Booth
 github frazazel/goorbo testing
 github frazazel/levelup release
-github gausie/excavator release
 github geistbar/autoGlacier
 github geistbar/autoVolcano
 github ggvgiu/PizzaCubeGUI Release
@@ -64,6 +63,7 @@ github loathers/ChIT
 github loathers/chrono-collector release
 github loathers/combo release
 github loathers/crimbo release
+github loathers/excavator release
 github loathers/freecandydotexe release
 github loathers/garbage-collector release
 github loathers/greenbox release
