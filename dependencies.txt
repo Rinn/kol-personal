@@ -49,7 +49,6 @@ github Ezandora/Genie
 github Ezandora/PirateRealm
 github Ezandora/Source-Terminal-GUI
 github Ezandora/Voting-Booth
-github frazazel/goorbo testing
 github frazazel/levelup release
 github geistbar/autoGlacier
 github geistbar/autoVolcano
