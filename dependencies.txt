@@ -37,6 +37,7 @@ https://svn.code.sf.net/p/winterbay-mafia/wham/code
 github AllenTuring/WitchessSolver
 github C2Talon/c2t_megg
 github coandco/mafia-NewYou
+github docrostov/ScotchLog
 github Ezandora/Asdon-Martin-GUI
 github Ezandora/Bastille
 github Ezandora/Briefcase
