@@ -82,6 +82,7 @@ github midgleyc/Voting-Booth
 github Pantocyclus/instantsccs release
 github Pantocyclus/PVP_MAB release
 github phulin/shorts-ui
+github Prusias-kol/pChecklist
 github Rinn/kol-acquirebuff
 github Rinn/kol-creationcost
 github Rinn/kol-familiardrops
