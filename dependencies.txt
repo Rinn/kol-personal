@@ -59,7 +59,7 @@ github Kasekopf/loop-casual release
 github Kasekopf/loopsmol release
 github libraryaddict/KolLocket release
 github loathers/8bit-relay
-github loathers/autoscend
+github loathers/autoscend zootomist_prelim
 github loathers/ChIT
 github loathers/chrono-collector release
 github loathers/combo release
@@ -78,6 +78,7 @@ github Loathing-Associates-Scripting-Society/philter
 github Loathing-Associates-Scripting-Society/raidlog-parser
 github Loathing-Associates-Scripting-Society/yorick release
 github m-e-meyer/av-snapshot
+github MattiasKro/KoL-LepCon
 github midgleyc/Voting-Booth
 github Pantocyclus/instantsccs release
 github Pantocyclus/PVP_MAB release
