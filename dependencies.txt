@@ -90,6 +90,7 @@ github Rinn/kol-familiardrops
 github Rinn/kol-pvphistory
 github Rinn/kol-relayskills
 github s-k-z/kolfix release
+github soolar/ChITTER release
 github soolar/CONSUME.ash
 github Thingamore/EZHobo
 github tigerinanenet/cognac release
