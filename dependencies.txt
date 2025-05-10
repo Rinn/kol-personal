@@ -54,7 +54,6 @@ github frazazel/levelup release
 github geistbar/autoGlacier
 github geistbar/autoVolcano
 github ggvgiu/PizzaCubeGUI Release
-github horrible-little-slime/phccs release
 github Kasekopf/loop-casual release
 github Kasekopf/loopsmol release
 github libraryaddict/KolLocket release
@@ -92,6 +91,7 @@ github Rinn/kol-relayskills
 github s-k-z/kolfix release
 github soolar/ChITTER release
 github soolar/CONSUME.ash
+github spaghetti-squash/phccs release
 github Thingamore/EZHobo
 github tigerinanenet/cognac release
 github Veracity0/arrrbor-day
