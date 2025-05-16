@@ -56,6 +56,7 @@ github geistbar/autoVolcano
 github ggvgiu/PizzaCubeGUI Release
 github Kasekopf/loop-casual release
 github Kasekopf/loopsmol release
+github Kasekopf/loopstar release
 github libraryaddict/KolLocket release
 github loathers/8bit-relay
 github loathers/autoscend
