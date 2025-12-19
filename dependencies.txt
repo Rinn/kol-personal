@@ -54,6 +54,7 @@ github frazazel/levelup release
 github geistbar/autoGlacier
 github geistbar/autoVolcano
 github ggvgiu/PizzaCubeGUI Release
+github jimmyking9999999/kol-relay-projects
 github Kasekopf/loop-casual release
 github Kasekopf/loopsmol release
 github Kasekopf/loopstar release
