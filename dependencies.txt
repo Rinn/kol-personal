@@ -35,6 +35,7 @@ https://svn.code.sf.net/p/winterbay-mafia/sushi/code
 https://svn.code.sf.net/p/winterbay-mafia/wham/code
 
 github AllenTuring/WitchessSolver
+github Astro3207/UnderTheSea
 github C2Talon/c2t_megg
 github coandco/mafia-NewYou
 github docrostov/ScotchLog
